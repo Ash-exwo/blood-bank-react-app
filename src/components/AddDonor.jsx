@@ -53,7 +53,6 @@ const AddDonor = () => {
                             style={{ backgroundColor: "#FFFFFF" }}
                         >
 
-                            {/* Heading */}
                             <h2
                                 className="text-center fw-bold mb-2"
                                 style={{ color: "#7A1F1F" }}

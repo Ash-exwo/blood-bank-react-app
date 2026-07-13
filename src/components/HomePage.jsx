@@ -10,7 +10,6 @@ const HomePage = () => {
         >
             <div className="container py-5">
 
-                {/* Hero Section */}
                 <div
                     className="row align-items-center rounded-4 shadow-sm p-5"
                     style={{ backgroundColor: "#FFFFFF" }}
@@ -59,7 +58,6 @@ const HomePage = () => {
                 </div>
 
 
-                {/* Information Cards */}
                 <div className="row mt-5 g-4">
 
                     <div className="col col-12 col-md-4">
