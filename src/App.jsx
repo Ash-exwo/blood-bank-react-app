@@ -7,6 +7,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import HomePage from './components/HomePage'
 import AddDonor from './components/AddDonor'
 import ViewDonor from './components/ViewDonor'
+import NavBar from './components/NavBar'
 
 function App() {
   const [count, setCount] = useState(0)
