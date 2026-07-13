@@ -1,4 +1,5 @@
 import React from 'react'
+import NavBar from './NavBar'
 
 const HomePage = () => {
   return (
@@ -8,6 +9,7 @@ const HomePage = () => {
                 minHeight: "100vh"
             }}
         >
+            <NavBar/>
             <div className="container py-5">
 
                 <div

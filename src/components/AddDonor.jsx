@@ -1,5 +1,6 @@
 import axios from 'axios'
 import React, { useState } from 'react'
+import NavBar from './NavBar'
 
 const AddDonor = () => {
 
@@ -43,6 +44,7 @@ const AddDonor = () => {
                 minHeight: "100vh"
             }}
         >
+            <NavBar/>
             <div className="container py-5">
 
                 <div className="row justify-content-center">
